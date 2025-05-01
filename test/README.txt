@@ -10,6 +10,7 @@ Files:
 Dataset Expected Directory:
 - lung_cancer_data/train
 - lung_cancer_data/val
+- Link to dataset  https://www.kaggle.com/datasets/andrewmvd/lung-and-colon-cancer-histopathological-images
 
 Requirements:
 - PyTorch
